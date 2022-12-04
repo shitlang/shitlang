@@ -4,7 +4,7 @@ Shitlang. A new Programming Language built into C++ which tailors to NONE of you
 
 # **How to use shitlang**
 
-Simple, just download and include the "[shitlang.hh](https://github.com/itsrxmmy/shitlang/blob/main/shitlang.hh)" header in your C++ files and get to work!
+Simple, just download and include the "[shitlang.hh](https://github.com/shitlang/shitlang/blob/main/shitlang.hh)" header in your C++ files and get to work!
 
 
 # **Learn shitlang**
