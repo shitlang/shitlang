@@ -1,4 +1,4 @@
-// shitlang 3.3
+// shitlang 3.4
 // by formik
 #pragma once
 #include <iostream>
@@ -8,6 +8,7 @@
 #include <cstdint>
 #include <fstream>
 using namespace std;
+#define unsafe
 #define OPEN {
 #define CLOSE }
 #define FILE std::fstream
