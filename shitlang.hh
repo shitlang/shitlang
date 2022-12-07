@@ -344,3 +344,4 @@ int SIZEOF(T __t){return sizeof(__t);}
 #define BLACK_OBJECT ()
 #define BLACK_OBJ ()
 #define BLANK_FIELD ()
+#define GENERIC template <typename T>
