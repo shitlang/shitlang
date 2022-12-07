@@ -8,6 +8,8 @@
 #include <cstdint>
 #include <fstream>
 using namespace std;
+#define OPEN {
+#define CLOSE }
 #define FILE std::fstream
 #define STRING std::string
 #define INT int
