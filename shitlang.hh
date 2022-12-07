@@ -1,4 +1,4 @@
-// shitlang 3.4
+// shitlang 3.5
 // by formik
 #pragma once
 #include <iostream>
