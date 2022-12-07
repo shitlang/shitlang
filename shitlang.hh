@@ -11,6 +11,7 @@ using namespace std;
 #define FILE std::fstream
 #define STRING std::string
 #define INT int
+#define NEXT ;
 #define VOID void
 #define CHAR char
 #define FLOAT float
