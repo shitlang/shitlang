@@ -338,5 +338,7 @@ int SIZEOF(T __t){return sizeof(__t);}
 #define ASSIGN =
 #define ACCESS ::
 #define GET .
+#define MEMBER .
+#define INHERITS :
 
 
