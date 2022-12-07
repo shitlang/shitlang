@@ -32,6 +32,7 @@ using namespace std;
 #define ENTRY_B main()
 #define ENTRY_CLI main(int argc, char* argv[])
 #define IS =
+#define MAIN main
 #define OPEN_P (
 #define CLOSE_P )
 #define BLANK_P ()
