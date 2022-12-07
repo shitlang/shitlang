@@ -150,7 +150,8 @@ using namespace std;
 #define END_FUNC return 0;
 #define RETURN return
 #define PUSH std::cout <<
-#define PASS return
+#define PASSES return
+#define GIVES return
 #define USE_STD using namespace std
 #define USE using
 #define USE_N using namespace 
