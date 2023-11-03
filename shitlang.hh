@@ -88,6 +88,7 @@ using namespace std;
 #define CAST
 #define CAST_TO
 #define TEST_CALL std::cout << "\n[\t\tTEST\t\t]\n"
+#define DEC 10
 #define CENT 100
 #define KILO 1000
 #define GOTO goto
